@@ -18,21 +18,6 @@
 
 ---
 
-## 🏛️ Architecture & Core Pillars
-
-O MEA opera através de um circuito fechado de engenharia, garantindo que a evolução não comprometa a estabilidade sistêmica.
-
-### 🛡️ Integrity & Safety
-*   **AST QA Gate:** Validação de integridade sintática em nível de compilador. Impede a injeção de código inseguro ou quebrado através da análise da Árvore de Sintaxe Abstrata.
-*   **TDD Sandbox Runner:** Auditoria rigorosa de cobertura (*Code Coverage*). Nenhuma mutação é implantada sem passar por uma suíte de testes unitários que comprove >85% de cobertura lógica.
-*   **WAF Semântico:** Proteção contra injeções de prompt e comandos perigosos através de nós de gramática, imune a ofuscações de texto.
-
-### ⚙️ Operational DevOps
-*   **Atomic Hot-Swapping:** Substituição física de módulos em tempo real com preservação de estado via `Soul Transfer`.
-*   **Self-Healing & Rollback:** Sistema de *Health Check* automático. Em caso de falha no boot pós-evolução, o sistema restaura o *snapshot* estável (`.backup.py`) em milissegundos.
-*   **Cognitive Memory:** Integração com **Mem0 (Vector DB)** para indexação semântica de falhas, transformando erros de depuração em lições aprendidas persistentes.
-
----
 
 ## 🚀 Quick Start
 
