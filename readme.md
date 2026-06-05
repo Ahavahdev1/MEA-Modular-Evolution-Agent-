@@ -63,6 +63,8 @@ Custo de Evolução	Otimizado via model-routing (GPT-4o-mini).
 📜 Manifesto de Design
 "O software tradicional é um cristal: imutável e frágil. O MEA é um organismo: ele se adapta, se repara e evolui conforme a necessidade do ecossistema, mantendo a integridade lógica através de testes autônomos."
 Nossa filosofia é clara: a IA não deve ser apenas uma geradora de código; ela deve ser a guardiã da sua própria infraestrutura. Ao fundir a camada de deploy com a camada de pensamento, eliminamos o erro humano e o custo operacional de manutenção, permitindo que sistemas autônomos operem com níveis de resiliência inatingíveis por abordagens estáticas.
-<div align="center">
+
 <sub>Built for Autonomic Systems | Distributed Computing | AGI-Ready</sub>
-</div>
+
+
+coming soon
