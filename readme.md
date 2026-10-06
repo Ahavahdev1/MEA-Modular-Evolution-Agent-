@@ -27,4 +27,4 @@ Nossa filosofia é clara: a IA não deve ser apenas uma geradora de código; ela
 <sub>Built for Autonomic Systems | Distributed Computing | AGI-Ready</sub>
 
 
-coming soon
+coming  soon
